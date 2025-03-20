@@ -84,6 +84,7 @@
   }
   .social-link-list-item:hover{
     background-color: var(--Green);
+    color: var(--Grey-900);
   }
   .social-location{
     color: var(--Green);
