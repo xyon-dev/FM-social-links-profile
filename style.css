@@ -60,6 +60,9 @@
     font-weight: 600;
     text-decoration: none;
   }
+  .social-link:hover{
+    color: var(--Grey-900);
+  }
   .social-link-list{
     display: flex;
     flex-direction: column;
@@ -78,6 +81,9 @@
     text-align: center;
     text-transform: capitalize;
     width: 100%;
+  }
+  .social-link-list-item:hover{
+    background-color: var(--Green);
   }
   .social-location{
     color: var(--Green);
